@@ -1,0 +1,9 @@
+Building Koin
+
+See doc/readme-qt.rst for instructions on building Koin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Koin.
+
+See doc/build-*.txt for instructions on building koind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Koin.

@@ -1,0 +1,7 @@
+Hi,
+
+I would like to start off with saying I have no idea what I'm doing. I am not a programmer or a designer. I'm trying to get these files up on Github because they belong here.
+
+I've made 3 folders, because I received 3 zip files. Each folder has a corresponding zip file in the root, where you found this txt. Let's hope for the best.
+
+Do you like fishsticks?
